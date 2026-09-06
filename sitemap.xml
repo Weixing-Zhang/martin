@@ -82,16 +82,34 @@
         <loc>https://maplibre.org/martin/sources-geojson/</loc>
       </url>
       <url>
+        <loc>https://maplibre.org/martin/sources-duckdb/</loc>
+      </url>
+      <url>
         <loc>https://maplibre.org/martin/sources-passthrough/</loc>
       </url>
       <url>
         <loc>https://maplibre.org/martin/sources-composite/</loc>
       </url>
       <url>
+        <loc>https://maplibre.org/martin/postprocessing/</loc>
+      </url>
+      <url>
+        <loc>https://maplibre.org/martin/postprocessing/mlt/</loc>
+      </url>
+      <url>
+        <loc>https://maplibre.org/martin/postprocessing/hillshade/</loc>
+      </url>
+      <url>
+        <loc>https://maplibre.org/martin/postprocessing/contour/</loc>
+      </url>
+      <url>
         <loc>https://maplibre.org/martin/sources-sprites/</loc>
       </url>
       <url>
         <loc>https://maplibre.org/martin/sources-styles/</loc>
+      </url>
+      <url>
+        <loc>https://maplibre.org/martin/sources-styles/rendering/</loc>
       </url>
       <url>
         <loc>https://maplibre.org/martin/sources-fonts/</loc>
@@ -101,6 +119,9 @@
       </url>
       <url>
         <loc>https://maplibre.org/martin/using-guides/</loc>
+      </url>
+      <url>
+        <loc>https://maplibre.org/martin/recipe-basemap-selfhosted/</loc>
       </url>
       <url>
         <loc>https://maplibre.org/martin/using-with-renderer/</loc>
